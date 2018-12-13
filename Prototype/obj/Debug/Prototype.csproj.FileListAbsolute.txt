@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

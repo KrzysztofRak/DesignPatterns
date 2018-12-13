@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

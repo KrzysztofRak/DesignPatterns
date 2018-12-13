@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

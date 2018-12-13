@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Factory\bin\Debug\Factory.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Factory\bin\Debug\Factory.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Factory\bin\Debug\Factory.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Factory\obj\Debug\Factory.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Factory\obj\Debug\Factory.pdb

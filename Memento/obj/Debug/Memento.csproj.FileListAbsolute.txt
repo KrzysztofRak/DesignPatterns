@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Memento\obj\Debug\Memento.pdb

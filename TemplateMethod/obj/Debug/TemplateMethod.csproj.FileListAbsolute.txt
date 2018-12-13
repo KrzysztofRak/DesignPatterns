@@ -1,0 +1,14 @@
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache

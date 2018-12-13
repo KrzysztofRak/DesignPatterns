@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

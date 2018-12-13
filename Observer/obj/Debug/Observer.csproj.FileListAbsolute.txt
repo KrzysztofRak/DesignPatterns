@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Observer\obj\Debug\Observer.pdb

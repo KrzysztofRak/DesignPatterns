@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Builder\obj\Debug\Builder.pdb

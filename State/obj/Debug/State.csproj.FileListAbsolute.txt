@@ -1,0 +1,13 @@
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\State\bin\Debug\State.exe.config
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\State\bin\Debug\State.exe
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\State\bin\Debug\State.pdb
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\State\obj\Debug\State.exe
+C:\Users\Krzysztof\Documents\Visual Studio 2017\Projects\Dekorator\State\obj\Debug\State.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\State\bin\Debug\State.exe
+C:\Users\rakk1\Desktop\DesignPatterns\State\bin\Debug\State.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\State\obj\Debug\State.exe
+C:\Users\rakk1\Desktop\DesignPatterns\State\obj\Debug\State.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\State\obj\Debug\State.csprojAssemblyReference.cache

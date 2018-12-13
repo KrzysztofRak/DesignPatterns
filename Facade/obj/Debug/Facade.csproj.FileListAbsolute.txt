@@ -1,0 +1,6 @@
+C:\Users\rakk1\Desktop\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\rakk1\Desktop\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\rakk1\Desktop\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\rakk1\Desktop\DesignPatterns\Facade\obj\Debug\Facade.pdb
